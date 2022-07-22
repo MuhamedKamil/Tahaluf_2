@@ -11,6 +11,13 @@ Dataset Link https://github.com/zalandoresearch/fashion-mnist
 
 Although the dataset is relatively simple, it can be used as the basis for learning and practicing how to develop, evaluate, and use deep convolutional neural networks for image classification from scratch, Which achieves impressive results.
 
+Steps
+------------
+1- Download Dataset
+2- Using Convoultion Neural Network for training the data
+3- Receptive field calculation
+4- FLOPS and MAACs calculation
+
 Installation
 ------------
 1- pip install -r requirements.txt
