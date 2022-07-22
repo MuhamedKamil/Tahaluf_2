@@ -25,8 +25,13 @@ Links
 ------------
 Receptive field 
 
-[https://github.com/shelfwise/receptivefield
-](https://github.com/google-research/receptive_field)
+1- https://github.com/shelfwise/receptivefield
+
+2- https://github.com/google-research/receptive_field
+
+FLOPS and MAACs
+
+1- https://github.com/ckyrkou/Keras_FLOP_Estimator
 
 Installation
 ------------
