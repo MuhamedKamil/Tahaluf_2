@@ -17,9 +17,16 @@ Steps
 
 2- Using Convoultion Neural Network for training the data
 
-3- Receptive field calculation
+3- calculate Receptive field
 
-4- FLOPS and MAACs calculation
+4- calculate FLOPS and MAACs
+
+Links
+------------
+Receptive field 
+
+[https://github.com/shelfwise/receptivefield
+](https://github.com/google-research/receptive_field)
 
 Installation
 ------------
