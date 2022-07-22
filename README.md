@@ -17,9 +17,9 @@ Steps
 
 2- Using Convoultion Neural Network for training the data
 
-3- calculate Receptive field
+3- Calculate Receptive field
 
-4- calculate FLOPS and MAACs
+4- Calculate FLOPS and MAACs
 
 Links
 ------------
